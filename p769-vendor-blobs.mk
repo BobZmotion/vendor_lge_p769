@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p769/proprietary/etc/firmware/fw_bcmdhd.bin:system/etc/firmware/fw_bcmdhd.bin \
     vendor/lge/p769/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/p769/proprietary/etc/firmware/fw_bcmdhd_p2p.bin:system/etc/firmware/fw_bcmdhd_p2p.bin \
+    vendor/lge/p769/proprietary/etc/powervr.ini:system/etc/powervr.ini \
     vendor/lge/p769/proprietary/lib/hw/camera.omap4.so:system/lib/hw/camera.omap4.so \
     vendor/lge/p769/proprietary/lib/hw/gps.omap4.so:system/lib/hw/gps.omap4.so \
     vendor/lge/p769/proprietary/lib/hw/sensors.omap4.so:system/lib/hw/sensors.omap4.so \
